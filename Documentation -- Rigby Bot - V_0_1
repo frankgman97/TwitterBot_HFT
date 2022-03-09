@@ -1,0 +1,27 @@
+Commands: ./
+
+
+Command: [$STOCK_TICKER] ./[ACTION] -QT:[INT]
+ 		
+
+Tweet:
+@jorgesTwitter: $AMD ./BUY -QT:10 //Twitter ONLY allows "$","#","@"
+
+
+
+
+Summary: $STOCK_TICKER ./SUMMARY
+Buy:	 $STOCK_TICKER ./BUY      -QT:INT
+Sell:	 $STOCK_TICKER ./SELL     -QT:INT
+
+
+Stock ticker object with a couple of methods and certain paramarters.
+
+Twitter APi - Pull "$stock" 
+PFOF model people are able to see what other's are saying about 
+about a certain $stock
+ppl can also buy and sell with certain keywords
+
+
+The value of real time information. 
+
